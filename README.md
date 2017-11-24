@@ -17,6 +17,7 @@ To use this shellscript you will need:
 ## Usage
 
 To translate a pdf file you simple have to type something like this: 
+
     # ./deepl_translate_pdf filename.pdf
  
 This will take a moment. To indicate that the script is working there are "." (not translated section) and ":" (translated section).
